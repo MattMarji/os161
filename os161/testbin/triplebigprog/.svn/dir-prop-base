@@ -1,0 +1,8 @@
+K 10
+svn:ignore
+V 32
+triplebigprog
+triple.c
+triple.h
+
+END

@@ -1,0 +1,14 @@
+forktest, 10, 10
+crash, 0, 13
+faulter, 7, 7
+add, 0, 5
+argtest, 2, 8
+forkbomb, 0, 8
+fork, 8, 8
+multiply, 0, 4
+waitexit1, 5, 5
+waitexit2, 5, 5
+waitexit3, 5, 5
+waitexit4, 5, 5
+waitexit5, 2, 7
+sty, 0, 10
